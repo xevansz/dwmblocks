@@ -1,0 +1,2 @@
+# dwmblocks
+my dwmblocks script
